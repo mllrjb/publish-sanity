@@ -1,0 +1,22 @@
+{
+  "name": "publish-sanity",
+  "version": "0.0.1",
+  "bin": {
+    "publish-sanity": "./index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "yargs": "^6.0.0"
+  },
+  "description": "Sanity check that a module can be required after publishing",
+  "keywords": [
+    "npm",
+    "sanity",
+    "require",
+    "publish",
+    "prepublish"
+  ],
+  "author": "Jason Miller <jason@mllrjb.com>",
+  "license": "ISC"
+}
