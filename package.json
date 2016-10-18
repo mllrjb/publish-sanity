@@ -18,5 +18,9 @@
     "prepublish"
   ],
   "author": "Jason Miller <jason@mllrjb.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "mllrjb/publish-sanity"
+  }
 }
